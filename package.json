@@ -1,6 +1,6 @@
 {
   "name": "grunt-homemade",
-  "description": "C-like JS preprocessor grunt task",
+  "description": "Homemade grunt task",
   "version": "0.2.3",
   "homepage": "https://github.com/dfcreative/grunt-homemade",
   "author": {
@@ -21,14 +21,14 @@
       "url": "https://github.com/dfcreative/grunt-homemade/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "Gruntfile.js",
+  "main": "gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
   },
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies" : { 
+  "dependencies" : {
     "homemade" : ">=0.3.3"
   },
   "devDependencies": {
