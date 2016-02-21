@@ -28,8 +28,8 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies" : {
-    "homemade" : ">=0.3.3"
+  "dependencies": {
+    "homemade": ">=0.3.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
@@ -38,7 +38,7 @@
     "grunt": "~0.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
